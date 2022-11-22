@@ -1,8 +1,0 @@
-com/shashank/platform/busbookingappui/MainActivity.java
- com.shashank.platform.busbookingappui.MainActivity
-com/shashank/platform/busbookingappui/BuildConfig.java
- com.shashank.platform.busbookingappui.BuildConfig
-com/shashank/platform/busbookingappui/Main2Activity.java
- com.shashank.platform.busbookingappui.Main2Activity
-com/shashank/platform/busbookingappui/Main3Activity.java
- com.shashank.platform.busbookingappui.Main3Activity
